@@ -8,6 +8,7 @@
     "dev": "nodemon src/app.js",
     "start": "node src/app.js"
   },
+  "proxy": "https://nodejs-railway-api.up.railway.app",
   "keywords": [],
   "author": "",
   "license": "ISC",
